@@ -1,0 +1,23 @@
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.deps.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.genruntimeconfig.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.deps.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.runtimeconfig.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.runtimeconfig.dev.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\netcoreapp3.1\Knowledge.Data.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.AssemblyInfoInputs.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.AssemblyInfo.cs
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.csproj.CoreCompileInputs.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\netcoreapp3.1\Knowledge.Data.genruntimeconfig.cache

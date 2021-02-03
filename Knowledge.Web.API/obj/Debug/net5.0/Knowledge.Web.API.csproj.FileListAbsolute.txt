@@ -1,0 +1,140 @@
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\appsettings.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.exe
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.deps.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.runtimeconfig.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\ref\Knowledge.Web.API.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\staticwebassets\Knowledge.Web.API.StaticWebAssets.Manifest.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\staticwebassets\Knowledge.Web.API.StaticWebAssets.xml
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\scopedcss\bundle\Knowledge.Web.API.styles.css
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.RazorTargetAssemblyInfo.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.csproj.CopyComplete
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\ref\Knowledge.Web.API.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.genruntimeconfig.cache
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.StaticWebAssets.xml
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Humanizer.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Data.dll
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Data.pdb
+D:\Documents\Visual Studio 2019\Web Application\Asp.Net Core\Knowledge\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.csprojAssemblyReference.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.AssemblyInfoInputs.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.AssemblyInfo.cs
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.csproj.CoreCompileInputs.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\appsettings.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.exe
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.deps.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.runtimeconfig.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.runtimeconfig.dev.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\ref\Knowledge.Web.API.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Web.API.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.csprojAssemblyReference.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\staticwebassets\Knowledge.Web.API.StaticWebAssets.Manifest.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\staticwebassets\Knowledge.Web.API.StaticWebAssets.xml
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\scopedcss\bundle\Knowledge.Web.API.styles.css
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.RazorTargetAssemblyInfo.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.csproj.CopyComplete
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\ref\Knowledge.Web.API.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\obj\Debug\net5.0\Knowledge.Web.API.genruntimeconfig.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Humanizer.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Data.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Web.API\bin\Debug\net5.0\Knowledge.Data.pdb

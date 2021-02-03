@@ -1,0 +1,15 @@
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\net5.0\Knowledge.Data.deps.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\net5.0\Knowledge.Data.runtimeconfig.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\net5.0\Knowledge.Data.runtimeconfig.dev.json
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\net5.0\Knowledge.Data.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\net5.0\ref\Knowledge.Data.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\bin\Debug\net5.0\Knowledge.Data.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.csprojAssemblyReference.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.AssemblyInfoInputs.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.AssemblyInfo.cs
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.csproj.CoreCompileInputs.cache
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\ref\Knowledge.Data.dll
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.pdb
+D:\Documents\git\New folder\IdentityProvider\Knowledge.Data\obj\Debug\net5.0\Knowledge.Data.genruntimeconfig.cache
